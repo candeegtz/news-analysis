@@ -1,0 +1,235 @@
+[
+{"query": "News about Donald Trump", "documentos": [32, 33, 35, 37, 40, 43]},
+{"query": "Information about films, series and shows", "documentos": [41, 46, 47, 48]},
+{"query": "Cases related to racism and hindu culture in offices", "documentos": [42]},
+{"query": "Data on economy and finance", "documentos": [44, 45]},
+{"query": "Topics on feminism and women's rights", "documentos": [34, 36, 47]},
+{"query": "Security forces and police operations", "documentos": [30, 31, 39, 49]},
+{"query": "Political situation in the United States (US)", "documentos": [32, 33, 35, 40, 43]},
+{"query": "Politics in India (Delhi)", "documentos": [36, 39, 42, 44]},
+{"query": "Armed conflicts in which ballistic missiles have been used", "documentos": [40]},
+{"query": "Environment, ecology and health", "documentos": [38, 39]},
+{"query": "Ailments caused by pollutant", "documentos": [38]},
+
+{
+"query": "Imposition of Rakshabandhan religious celebration in offices",
+"documentos": [0]
+},
+{
+"query": "Controversies over mandatory labor regulations related to religion in the workplace",
+"documentos": [0]
+},
+{
+"query": "Criticism of famous women after divorce",
+"documentos": [1]
+},
+{
+"query": "Misogyny on social media toward successful and independent woman",
+"documentos": [1]
+},
+{
+"query": "Controversy over an inappropriate institutional form",
+"documentos": [2]
+},
+{
+"query": "Woman reports inappropriate questions on a form asking if she was a virgin or unmarried",
+"documentos": [2]
+},
+{
+"query": "Death of wanted terrorists in Kashmir",
+"documentos": [3]
+},
+{
+"query": "Pressure on terrorists to surrender",
+"documentos": [3]
+},
+{
+"query": "Staff training on anti-trafficking measures at a hotel",
+"documentos": [4]
+},
+{
+"query": "Technology against sex trafficking in India",
+"documentos": [4]
+},
+{
+"query": "Suspicious death under police custody",
+"documentos": [5]
+},
+{
+"query": "Suspicions of police abuse in interrogations",
+"documentos": [5]
+},
+{
+"query": "Reduced compensation due to shared negligence",
+"documentos": [6]
+},
+{
+"query": "Pedestrian responsibility in traffic accidents",
+"documentos": [6]
+},
+{
+"query": "Lynching due to mass hysteria over haircut",
+"documentos": [7]
+},
+{
+"query": "Cases of mass hysteria in rural India",
+"documentos": [7]
+},
+{
+"query": "Helicopter accident due to low altitude flight",
+"documentos": [8]
+},
+{
+"query": "Human errors in air accidents in India",
+"documentos": [8]
+},
+{
+"query": "Symbolic protest over tomato inflation",
+"documentos": [9]
+},
+{
+"query": "Impact of tomato prices in India",
+"documentos": [9]
+},
+{
+"query": "Recovery of surplus food to feed those in need",
+"documentos": [10]
+},
+{
+"query": "Regulation for food banks in India",
+"documentos": [10]
+},
+{
+"query": "Fake job offer from Google to a teenager",
+"documentos": [11]
+},
+{
+"query": "Fake offers and hoax traumatize young people",
+"documentos": [11]
+},
+{
+"query": "Tax exemption for offering free parking in Gurugram",
+"documentos": [12]
+},
+{
+"query": "Decision of commercial buildings not to offer free parking",
+"documentos": [12]
+},
+{
+"query": "Genetic editing of human embryos to prevent diseases",
+"documentos": [13]
+},
+{
+"query": "Risks and ethical debate on genetic editing of embryos",
+"documentos": [13]
+},
+{
+"query": "Dangerous buildings in Delhi under government control",
+"documentos": [14]
+},
+{
+"query": "Annual review of unsafe buildings by municipal authorities",
+"documentos": [14]
+},
+{
+"query": "Rajya Sabha elections with NOTA option in Gujarat",
+"documentos": [15]
+},
+{
+"query": "Supreme Court maintains NOTA option in Gujarat elections",
+"documentos": [15]
+},
+{
+"query": "Indian athlete accused of sexual abuse in the US",
+"documentos": [16]
+},
+{
+"query": "Legal case against Indian athlete in the U.S. for sexual abuse",
+"documentos": [16]
+},
+{
+"query": "False bomb alarm at Delhi airport due to Maruti parts",
+"documentos": [17]
+},
+{
+"query": "Bomb squad verifies suspicion at Delhi airport",
+"documentos": [17]
+},
+{
+"query": "Controversial virginity questionnaire at IGIMS Bihar",
+"documentos": [18]
+},
+{
+"query": "Health minister's defense of questionnaire at IGIMS",
+"documentos": [18]
+},
+{
+"query": "Confusion of Norwegian anti-immigrant group over seats and burqas",
+"documentos": [19]
+},
+{
+"query": "Reactions and racism in Norwegian group after photo of empty seats",
+"documentos": [19]
+},
+{
+"query": "Baby born with malformed twin inside in Maharashtra",
+"documentos": [20]
+},
+{
+"query": "Rare case of monozygotic twin pregnancy with fetus in fetu",
+"documentos": [20]
+},
+{
+"query": "Ban on street vendors near AIIMS and Safdarjung in Delhi",
+"documentos": [21]
+},
+{
+"query": "Measures to improve traffic and accessibility in Delhi hospitals",
+"documentos": [21]
+},
+{
+"query": "Farmers’ protest in Noida for compensation and release of arrested protesters",
+"documentos": [22]
+},
+{
+"query": "Dialogue between farmers and authorities on compensation and protests in Noida",
+"documentos": [22]
+},
+{
+"query": "Near collision incident of Air Canada plane at San Francisco airport",
+"documentos": [23]
+},
+{
+"query": "Confusion among Air Canada pilots and safety systems at SF airport",
+"documentos": [23]
+},
+{
+"query": "Emergency landing of a plane that killed two beachgoers in Lisbon",
+"documentos": [24]
+},
+{
+"query": "Air accident on Portuguese beach with fatal victims",
+"documentos": [24]
+},
+{
+"query": "Fuel blockade for UN humanitarian flights in Yemen by Saudi coalition",
+"documentos": [25]
+},
+{
+"query": "Successful test of Minuteman 3 intercontinental ballistic missile in California",
+"documentos": [26]
+},
+{
+"query": "Geopolitical context and missile tests in the U.S. amid North Korea threats",
+"documentos": [26]
+},
+{
+"query": "German hiker found frozen in Swiss glacier after 30 years missing",
+"documentos": [27]
+},
+{
+"query": "Human remains found in Swiss glacier decades after disappearance",
+"documentos": [27]
+}
+
+]
