@@ -1,0 +1,1480 @@
+[{
+  "tema": "celebridades",
+  "query": "donald AND trump",
+  "documentos": [32, 33, 35, 37, 40, 43]
+},
+{
+  "tema": "celebridades",
+  "query": "president",
+  "documentos": [32, 33, 37, 40, 43]
+},
+{
+  "tema": "celebridades",
+  "query": "dina AND titus",
+  "documentos": [32]
+},
+{
+  "tema": "celebridades",
+  "query": "chelsea AND clinton",
+  "documentos": [32]
+},
+{
+  "tema": "celebridades",
+  "query": "anthony AND scaramucci",
+  "documentos": [33]
+},
+{
+  "tema": "celebridades",
+  "query": "reince AND priebus",
+  "documentos": [33]
+},
+{
+  "tema": "celebridades",
+  "query": "jon AND huntsman",
+  "documentos": [33]
+},
+{
+  "tema": "celebridades",
+  "query": "eric AND trump",
+  "documentos": [33]
+},
+{
+  "tema": "celebridades",
+  "query": "tom AND bossert",
+  "documentos": [33]
+},
+{
+  "tema": "celebridades",
+  "query": "paul AND ryan",
+  "documentos": [33]
+},
+{
+  "tema": "celebridades",
+  "query": "sarah AND huckabee AND sanders",
+  "documentos": [33]
+},
+{
+  "tema": "celebridades",
+  "query": "mike AND pence",
+  "documentos": [33]
+},
+{
+  "tema": "celebridades",
+  "query": "bannon",
+  "documentos": [33]
+},
+{
+  "tema": "celebridades",
+  "query": "kushner",
+  "documentos": [35]
+},
+{
+  "tema": "celebridades",
+  "query": "ayesha AND gulalai",
+  "documentos": [36]
+},
+{
+  "tema": "celebridades",
+  "query": "imran AND khan",
+  "documentos": [36]
+},
+{
+  "tema": "celebridades",
+  "query": "nawaz AND sharif",
+  "documentos": [36]
+},
+{
+  "tema": "celebridades",
+  "query": "jk AND rowling",
+  "documentos": [37]
+},
+{
+  "tema": "celebridades",
+  "query": "novelist OR author",
+  "documentos": [37]
+},
+{
+  "tema": "celebridades",
+  "query": "naseem AND khan",
+  "documentos": [39]
+},
+{
+  "tema": "celebridades",
+  "query": "mohsin AND raza",
+  "documentos": [39]
+},
+{
+  "tema": "celebridades",
+  "query": "akhilesh AND yadav",
+  "documentos": [39]
+},
+{
+  "tema": "celebridades",
+  "query": "lindsey AND graham",
+  "documentos": [40]
+},
+{
+  "tema": "celebridades",
+  "query": "kim AND jong AND un",
+  "documentos": [40]
+},
+{
+  "tema": "celebridades",
+  "query": "sunil AND pal",
+  "documentos": [41]
+},
+{
+  "tema": "celebridades",
+  "query": "anees AND bazmee",
+  "documentos": [41]
+},
+{
+  "tema": "celebridades",
+  "query": "mayur AND barot",
+  "documentos": [41]
+},
+{
+  "tema": "celebridades",
+  "query": "remo AND dsouza",
+  "documentos": [41]
+},
+{
+  "tema": "celebridades",
+  "query": "praful AND kodabhai AND patel",
+  "documentos": [42]
+},
+{
+  "tema": "celebridades",
+  "query": "mohan AND bhagwat",
+  "documentos": [42]
+},
+{
+  "tema": "celebridades",
+  "query": "rex AND tillerson",
+  "documentos": [43]
+},
+{
+  "tema": "celebridades",
+  "query": "arun AND jaitley",
+  "documentos": [44]
+},
+{
+  "tema": "celebridades",
+  "query": "baba AND ramdev",
+  "documentos": [46]
+},
+{
+  "tema": "celebridades",
+  "query": "sonakshi AND sinha",
+  "documentos": [46]
+},
+{
+  "tema": "celebridades",
+  "query": "shekhar AND ravjiani",
+  "documentos": [46]
+},
+{
+  "tema": "celebridades",
+  "query": "kanika AND kapoor",
+  "documentos": [46]
+},
+{
+  "tema": "celebridades",
+  "query": "aparshakti AND khurana",
+  "documentos": [46]
+},
+{
+  "tema": "celebridades",
+  "query": "ranveer AND singh",
+  "documentos": [46]
+},
+{
+  "tema": "celebridades",
+  "query": "mouni AND roy",
+  "documentos": [46]
+},
+{
+  "tema": "celebridades",
+  "query": "badshah",
+  "documentos": [46]
+},
+{
+  "tema": "celebridades",
+  "query": "(reality AND show) OR shoot OR performances OR show OR shows",
+  "documentos": [46]
+},
+{
+  "tema": "celebridades",
+  "query": "bollywood",
+  "documentos": [46, 48]
+},
+{
+  "tema": "celebridades",
+  "query": "singer OR rapper",
+  "documentos": [46]
+},
+{
+  "tema": "celebridades",
+  "query": "actor OR actress OR actors OR director OR star",
+  "documentos": [46, 47, 48]
+},
+{
+  "tema": "celebridades",
+  "query": "songs OR tunes OR music",
+  "documentos": [46]
+},
+{
+  "tema": "celebridades",
+  "query": "films OR film OR movie OR series",
+  "documentos": [37, 47, 48]
+},
+{
+  "tema": "celebridades",
+  "query": "naseeruddin AND shah",
+  "documentos": [47]
+},
+{
+  "tema": "televisión y cine",
+  "query": "sunil AND pal",
+  "documentos": [41]
+},
+{
+  "tema": "televisión y cine",
+  "query": "anees AND bazmee",
+  "documentos": [41]
+},
+{
+  "tema": "televisión y cine",
+  "query": "mayur AND barot",
+  "documentos": [41]
+},
+{
+  "tema": "televisión y cine",
+  "query": "remo AND dsouza",
+  "documentos": [41]
+},
+{
+  "tema": "televisión y cine",
+  "query": "cintaa",
+  "documentos": [41]
+},
+{
+  "tema": "televisión y cine",
+  "query": "great AND indian AND laughter AND challenge",
+  "documentos": [41]
+},
+{
+  "tema": "televisión y cine",
+  "query": "nawabzade",
+  "documentos": [41]
+},
+{
+  "tema": "televisión y cine",
+  "query": "baba AND ramdev",
+  "documentos": [46]
+},
+{
+  "tema": "televisión y cine",
+  "query": "sonakshi AND sinha",
+  "documentos": [46]
+},
+{
+  "tema": "televisión y cine",
+  "query": "shekhar AND ravjiani",
+  "documentos": [46]
+},
+{
+  "tema": "televisión y cine",
+  "query": "kanika AND kapoor",
+  "documentos": [46]
+},
+{
+  "tema": "televisión y cine",
+  "query": "aparshakti AND khurana",
+  "documentos": [46]
+},
+{
+  "tema": "televisión y cine",
+  "query": "ranveer AND singh",
+  "documentos": [46]
+},
+{
+  "tema": "televisión y cine",
+  "query": "mouni AND roy",
+  "documentos": [46]
+},
+{
+  "tema": "televisión y cine",
+  "query": "badshah",
+  "documentos": [46]
+},
+{
+  "tema": "televisión y cine",
+  "query": "(life AND ok) OR (star AND bharat)",
+  "documentos":  [46]
+},
+{
+  "tema": "televisión y cine",
+  "query": "(reality AND show) OR shoot OR performances OR show OR shows OR sets OR set OR function",
+  "documentos": [41,46,48]
+},
+{
+  "tema": "televisión y cine",
+  "query": "media",
+  "documentos": [46]
+},
+{
+  "tema": "televisión y cine",
+  "query": "produce OR direct",
+  "documentos": [46,48]
+},
+{
+  "tema": "televisión y cine",
+  "query": "roadies",
+  "documentos": [46]
+},
+{
+  "tema": "televisión y cine",
+  "query": "masterchef OR splisvilla OR naagin",
+  "documentos": [46]
+},
+{
+  "tema": "televisión y cine",
+  "query": "bollywood",
+  "documentos": [46,48]
+},
+{
+  "tema": "televisión y cine",
+  "query": "singer OR rapper",
+  "documentos": [46]
+},
+{
+  "tema": "televisión y cine",
+  "query": "studio",
+  "documentos": [46]
+},
+{
+  "tema": "televisión y cine",
+  "query": "actor OR actress OR actors OR director OR star OR filmmakers",
+  "documentos": [46,47,48]
+},
+{
+  "tema": "televisión y cine",
+  "query": "contestants OR host",
+  "documentos": [46]
+},
+{
+  "tema": "televisión y cine",
+  "query": "songs OR tunes OR music",
+  "documentos": [46]
+},
+{
+  "tema": "televisión y cine",
+  "query": "films OR film OR movie OR scene",
+  "documentos": [47,48]
+},
+{
+  "tema": "televisión y cine",
+  "query": "lipstick AND burkha",
+  "documentos": [47]
+},
+{
+  "tema": "televisión y cine",
+  "query": "cbfc",
+  "documentos": [47]
+},
+{
+  "tema": "televisión y cine",
+  "query": "film AND certification AND appellate AND tribunal",
+  "documentos": [47]
+},
+{
+  "tema": "televisión y cine",
+  "query": "screen",
+  "documentos": [47,48]
+},
+{
+  "tema": "televisión y cine",
+  "query": "naseeruddin AND shah",
+  "documentos": [47]
+},
+{
+  "tema": "televisión y cine",
+  "query": "ratna AND pathak",
+  "documentos": [47]
+},
+{
+  "tema": "televisión y cine",
+  "query": "alankrita AND shrivastava",
+  "documentos": [47]
+},
+{
+  "tema": "televisión y cine",
+  "query": "amitabh AND bachchan",
+  "documentos": [48]
+},
+{
+  "tema": "televisión y cine",
+  "query": "aamir AND khan",
+  "documentos": [48]
+},
+{
+  "tema": "televisión y cine",
+  "query": "katrina AND kaif",
+  "documentos": [48]
+},
+{
+  "tema": "televisión y cine",
+  "query": "fatima AND sana AND sheikh",
+  "documentos": [48]
+},
+{
+  "tema": "televisión y cine",
+  "query": "rishi AND kapoor",
+  "documentos": [48]
+},
+{
+  "tema": "televisión y cine",
+  "query": "vijay AND krishna AND acharya",
+  "documentos": [48]
+},
+{
+  "tema": "televisión y cine",
+  "query": "dangal",
+  "documentos": [48]
+},
+{
+  "tema": "televisión y cine",
+  "query": "thugs AND hindostan",
+  "documentos": [48]
+},
+{
+  "tema": "televisión y cine",
+  "query": "script",
+  "documentos": [48]
+},
+{
+  "tema": "televisión y cine",
+  "query": "adaptation",
+  "documentos": [48]
+},
+{
+  "tema": "racismo",
+  "query": "rakshabandhan",
+  "documentos": [42]
+},
+{
+  "tema": "racismo",
+  "query": "compulsory",
+  "documentos": [42]
+},
+{
+  "tema": "racismo",
+  "query": "daman AND diu",
+  "documentos": [42]
+},
+{
+  "tema": "racismo",
+  "query": "lady AND staff",
+  "documentos": [42]
+},
+{
+  "tema": "racismo",
+  "query": "tie AND rakhis",
+  "documentos": [42]
+},
+{
+  "tema": "racismo",
+  "query": "withdrawn",
+  "documentos": [42]
+},
+{
+  "tema": "racismo",
+  "query": "hindu AND culture",
+  "documentos": [42]
+},
+{
+  "tema": "racismo",
+  "query": "culture",
+  "documentos": [42]
+},
+{
+  "tema": "economía",
+  "query": "arun AND jaitley",
+  "documentos": [44]
+},
+{
+  "tema": "economía",
+  "query": "finance AND minister",
+  "documentos": [44]
+},
+{
+  "tema": "economía",
+  "query": "(competitive AND market) OR (stock AND market) OR shares",
+  "documentos": [44, 45]
+},
+{
+  "tema": "economía",
+  "query": "debt",
+  "documentos": [44]
+},
+{
+  "tema": "economía",
+  "query": "divestment",
+  "documentos": [44]
+},
+{
+  "tema": "economía",
+  "query": "loss AND (making OR make)",
+  "documentos": [44]
+},
+{
+  "tema": "economía",
+  "query": "bailout AND package",
+  "documentos": [44]
+},
+{
+  "tema": "economía",
+  "query": "tax",
+  "documentos": [44]
+},
+{
+  "tema": "economía",
+  "query": "finance OR financial",
+  "documentos": [44, 45]
+},
+{
+  "tema": "economía",
+  "query": "aa",
+  "documentos": [45]
+},
+{
+  "tema": "economía",
+  "query": "bob AND mackenzie",
+  "documentos": [45]
+},
+{
+  "tema": "economía",
+  "query": "misconduct",
+  "documentos": [45]
+},
+{
+  "tema": "economía",
+  "query": "fire OR resignation",
+  "documentos": [45]
+},
+{
+  "tema": "economía",
+  "query": "executive AND (chairman OR chief OR director)",
+  "documentos": [45]
+},
+{
+  "tema": "economía",
+  "query": "financial AND performance",
+  "documentos": [45]
+},
+{
+  "tema": "economía",
+  "query": "fix AND cost",
+  "documentos": [45]
+},
+{
+  "tema": "economía",
+  "query": "fraud",
+  "documentos": [45]
+},
+{
+  "tema": "feminismo",
+  "query": "(sexual AND offences) OR (sexual AND assault) OR (sexual AND abuse) OR (assault AND penetration)",
+  "documentos": [34]
+},
+{
+  "tema": "feminismo",
+  "query": "victims",
+  "documentos": [34]
+},
+{
+  "tema": "feminismo",
+  "query": "women AND leaders",
+  "documentos": [36]
+},
+{
+  "tema": "feminismo",
+  "query": "harass OR (obscene AND messages)",
+  "documentos": [36]
+},
+{
+  "tema": "feminismo",
+  "query": "honour AND women",
+  "documentos": [36]
+},
+{
+  "tema": "feminismo",
+  "query": "female AND sexuality",
+  "documentos": [47]
+},
+{
+  "tema": "feminismo",
+  "query": "lady AND oriented",
+  "documentos": [47]
+},
+{
+  "tema": "feminismo",
+  "query": "biases",
+  "documentos": [47]
+},
+{
+  "tema": "feminismo",
+  "query": "dictatorial",
+  "documentos": [47]
+},
+{
+  "tema": "feminismo",
+  "query": "lady OR women OR female",
+  "documentos": [36, 47]
+},
+{
+  "tema": "fuerzas de seguridad",
+  "query": "police OR cops OR cop OR inspectors OR constable OR constabulary OR asi OR acp OR (head AND constable) OR commissioner OR inspector OR general OR igp OR (security AND forces)",
+  "documentos": [30, 31, 39, 49]
+},
+{
+  "tema": "fuerzas de seguridad",
+  "query": "police AND station",
+  "documentos": [39]
+},
+{
+  "tema": "fuerzas de seguridad",
+  "query": "departmental AND inquiry",
+  "documentos": [49]
+},
+{
+  "tema": "fuerzas de seguridad",
+  "query": "pcr",
+  "documentos": [49]
+},
+{
+  "tema": "fuerzas de seguridad",
+  "query": "harvinder AND singh",
+  "documentos": [49]
+},
+{
+  "tema": "fuerzas de seguridad",
+  "query": "jurisdiction",
+  "documentos": [49]
+},
+{
+  "tema": "fuerzas de seguridad",
+  "query": "victim",
+  "documentos": [49]
+},
+{
+  "tema": "fuerzas de seguridad",
+  "query": "passport AND office",
+  "documentos": [49]
+},
+{
+  "tema": "fuerzas de seguridad",
+  "query": "lathi OR arm OR vigil",
+  "documentos": [39]
+},
+{
+  "tema": "fuerzas de seguridad",
+  "query": "(security AND forces) OR commander OR division OR militant OR militancy OR militants",
+  "documentos": [30, 31]
+},
+{
+  "tema": "fuerzas de seguridad",
+  "query": "operations",
+  "documentos": [30, 31]
+},
+{
+  "tema": "fuerzas de seguridad",
+  "query": "let",
+  "documentos": [30, 31]
+},
+{
+  "tema": "fuerzas de seguridad",
+  "query": "kill OR gunfight OR terrorist OR burial",
+  "documentos": [30, 31]
+},
+{
+  "tema": "fuerzas de seguridad",
+  "query": "abu AND dujana",
+  "documentos": [31]
+},
+{
+  "tema": "fuerzas de seguridad",
+  "query": "abu AND ismail",
+  "documentos": [31]
+},
+{
+  "tema": "fuerzas de seguridad",
+  "query": "bashir AND lashkari",
+  "documentos": [31]
+},
+{
+  "tema": "fuerzas de seguridad",
+  "query": "violence OR criminal OR fir OR ipc OR law OR amendment OR arrest",
+  "documentos": [39]
+},
+{
+  "tema": "fuerzas de seguridad",
+  "query": "high AND commission",
+  "documentos": [30]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "police OR cops OR cop OR policeman OR inspector OR head AND constable",
+  "documentos": [30, 39, 49]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "militant OR militants OR militant OR reprisal OR (security AND forces) OR commander",
+  "documentos": [30, 31]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "kill OR slain OR gunfight OR attack OR thrashes OR murder OR attempt",
+  "documentos": [30, 31, 50]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "burial",
+  "documentos": [30]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "abu AND dujana",
+  "documentos": [30, 31]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "abu AND ismail",
+  "documentos": [31]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "bashir AND lashkari",
+  "documentos": [31]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "arif AND lalihaari",
+  "documentos": [30]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "investigations OR investigation OR detectives OR intercepted OR operation",
+  "documentos": [31, 34, 50]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "communication AND intercepts",
+  "documentos": [31]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "email",
+  "documentos": [33]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "prankster",
+  "documentos": [33]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "leaks OR (cyber AND issues)",
+  "documentos": [33]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "justice",
+  "documentos": [33]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "manish AND shah",
+  "documentos": [34]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "sexual AND offences OR sexual AND assault OR sexual AND abuse OR assault AND penetration",
+  "documentos": [34]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "(magistrates AND court) OR court OR litigation OR (supreme AND court)",
+  "documentos": [34, 36, 39, 50]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "crown AND prosecution AND service",
+  "documentos": [34]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "victims",
+  "documentos": [34, 49]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "arrested OR arrest OR detention OR imprison",
+  "documentos": [34, 43]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "claims OR charges",
+  "documentos": [34, 39, 43]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "criminal OR contempt OR miscreants OR violate",
+  "documentos": [34, 39]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "authority",
+  "documentos": [36]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "imran AND khan",
+  "documentos": [36]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "ayesha AND gulalai",
+  "documentos": [36]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "harass OR (obscene AND messages) OR defamatory",
+  "documentos": [36, 41]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "facebook",
+  "documentos": [41]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "non AND payment",
+  "documentos": [41]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "dues OR cheque",
+  "documentos": [41]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "legal AND action",
+  "documentos": [41]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "jk AND rowling",
+  "documentos": [37]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "donald AND trump",
+  "documentos": [37]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "tweets",
+  "documentos": [37]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "apologise",
+  "documentos": [37]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "wrongly AND accuse",
+  "documentos": [37]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "disabled AND child",
+  "documentos": [37]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "sahibabad",
+  "documentos": [39]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "ghaziabad",
+  "documentos": [39]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "congress AND workers",
+  "documentos": [39]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "haj AND house",
+  "documentos": [39]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "naseem AND khan",
+  "documentos": [39]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "prohibitory AND orders",
+  "documentos": [39]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "violence OR damage",
+  "documentos": [39]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "unidentified",
+  "documentos": [39]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "court OR litigation",
+  "documentos": [39]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "otto AND warmbier",
+  "documentos": [43]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "steal",
+  "documentos": [43]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "death",
+  "documentos": [43]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "departmental AND inquiry",
+  "documentos": [49]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "bribe",
+  "documentos": [49]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "atam AND nagar",
+  "documentos": [49]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "demand",
+  "documentos": [49]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "incident",
+  "documentos": [49]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "convicts OR imprisonment OR guilty",
+  "documentos": [50]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "pirates",
+  "documentos": [50]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "case OR cases",
+  "documentos": [50]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "hostage OR kidnapping OR captured OR rescued",
+  "documentos": [50]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "verdict",
+  "documentos": [50]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "arms OR ammunitions",
+  "documentos": [50]
+},
+{
+  "tema": "crimen e injusticia",
+  "query": "coast AND guard",
+  "documentos": [50]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "(donald AND trump) OR president OR prez",
+  "documentos": [32, 33, 35, 40, 43]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "chelsea AND clinton",
+  "documentos": [32]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "dina AND titus",
+  "documentos": [32]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "us OR washington OR (united AND states)",
+  "documentos": [32, 40, 43]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "white AND house",
+  "documentos": [32, 33, 35]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "cnn",
+  "documentos": [32, 33]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "democrat OR democratic",
+  "documentos": [32, 35]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "campaign OR bid OR election",
+  "documentos": [33, 35]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "president OR secretary OR fundraiser OR adviser OR counsel OR government",
+  "documentos": [33, 35]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "congressional OR senate OR (intelligence AND committees) OR capitol",
+  "documentos": [33, 35]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "republican",
+  "documentos": [33, 40]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "national AND committee",
+  "documentos": [33]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "national AND security",
+  "documentos": [33]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "homeland AND security",
+  "documentos": [33]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "justice",
+  "documentos": [33]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "resignation",
+  "documentos": [33]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "anthony AND scaramucci",
+  "documentos": [33]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "reince AND priebus",
+  "documentos": [33]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "jon AND huntsman",
+  "documentos": [33]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "eric AND trump",
+  "documentos": [33]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "tom AND bossert",
+  "documentos": [33]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "paul AND ryan",
+  "documentos": [33]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "sarah AND huckabee AND sanders",
+  "documentos": [33]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "mike AND pence",
+  "documentos": [33]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "bannon",
+  "documentos": [33]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "kushner",
+  "documentos": [35]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "lindsey AND graham",
+  "documentos": [40]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "kim AND jong AND un",
+  "documentos": [40]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "north AND korea OR dprk OR pyongyang",
+  "documentos": [40, 43]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "china",
+  "documentos": [40]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "united AND nations",
+  "documentos": [40]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "senator OR lawmaker",
+  "documentos": [40]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "policy",
+  "documentos": [40]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "nbc",
+  "documentos": [40]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "diplomacy OR diplomatically OR diplomatic",
+  "documentos": [40]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "travel AND (ban OR restriction)",
+  "documentos": [43]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "rex AND tillerson",
+  "documentos": [43]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "rule AND law",
+  "documentos": [43]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "ballistic AND missile",
+  "documentos": [43]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "federal",
+  "documentos": [43]
+},
+{
+  "tema": "política de estados unidos",
+  "query": "democratic OR republic",
+  "documentos": [43]
+},
+{
+  "tema": "política de india",
+  "query": "ayesha AND gulalai",
+  "documentos": [36]
+},
+{
+  "tema": "política de india",
+  "query": "imran AND khan",
+  "documentos": [36]
+},
+{
+  "tema": "política de india",
+  "query": "nawaz AND sharif",
+  "documentos": [36]
+},
+{
+  "tema": "política de india",
+  "query": "corruption",
+  "documentos": [36]
+},
+{
+  "tema": "política de india",
+  "query": "party",
+  "documentos": [36]
+},
+{
+  "tema": "política de india",
+  "query": "leaders OR parliamentarian OR spokesman OR lawmaker OR minister OR ministers OR government OR (cabinet AND ministers)",
+  "documentos": [36, 42, 44]
+},
+{
+  "tema": "política de india",
+  "query": "pti OR (tehreek AND e AND insaf) OR (pml AND n)",
+  "documentos": [36]
+},
+{
+  "tema": "política de india",
+  "query": "national AND assembly",
+  "documentos": [36]
+},
+{
+  "tema": "política de india",
+  "query": "supreme AND court",
+  "documentos": [36]
+},
+{
+  "tema": "política de india",
+  "query": "tickets",
+  "documentos": [36]
+},
+{
+  "tema": "política de india",
+  "query": "mohsin AND raza",
+  "documentos": [39]
+},
+{
+  "tema": "política de india",
+  "query": "akhilesh AND yadav",
+  "documentos": [39]
+},
+{
+  "tema": "política de india",
+  "query": "praful AND kodabhai AND patel",
+  "documentos": [42]
+},
+{
+  "tema": "política de india",
+  "query": "mohan AND bhagwat",
+  "documentos": [42]
+},
+{
+  "tema": "política de india",
+  "query": "rss",
+  "documentos": [42]
+},
+{
+  "tema": "política de india",
+  "query": "bjp",
+  "documentos": [42]
+},
+{
+  "tema": "política de india",
+  "query": "constituencies",
+  "documentos": [42]
+},
+{
+  "tema": "política de india",
+  "query": "arun AND jaitley",
+  "documentos": [44]
+},
+{
+  "tema": "política de india",
+  "query": "tax",
+  "documentos": [44]
+},
+{
+  "tema": "política de india",
+  "query": "jobs",
+  "documentos": [44]
+},
+{
+  "tema": "política de india",
+  "query": "public AND sector",
+  "documentos": [44]
+},
+{
+  "tema": "política de india",
+  "query": "demands",
+  "documentos": [44]
+},
+{
+  "tema": "política de india",
+  "query": "air AND india",
+  "documentos": [44]
+},
+{
+  "tema": "conflictos armados",
+  "query": "war",
+  "documentos": [40]
+},
+{
+  "tema": "conflictos armados",
+  "query": "north AND korea",
+  "documentos": [40]
+},
+{
+  "tema": "conflictos armados",
+  "query": "(united AND states) OR us",
+  "documentos": [40]
+},
+{
+  "tema": "conflictos armados",
+  "query": "china",
+  "documentos": [40]
+},
+{
+  "tema": "conflictos armados",
+  "query": "united AND nations",
+  "documentos": [40]
+},
+{
+  "tema": "conflictos armados",
+  "query": "military",
+  "documentos": [40]
+},
+{
+  "tema": "conflictos armados",
+  "query": "destroy",
+  "documentos": [40]
+},
+{
+  "tema": "conflictos armados",
+  "query": "(ballistic AND missile) OR missile OR icbm OR nuclear OR weapons OR weapon OR arm",
+  "documentos": [40]
+},
+{
+  "tema": "conflictos armados",
+  "query": "devastate",
+  "documentos": [40]
+},
+{
+  "tema": "conflictos armados",
+  "query": "intercontinental",
+  "documentos": [40]
+},
+{
+  "tema": "vivienda y desarrollo urbano",
+  "query": "public AND property",
+  "documentos": [39]
+},
+{
+  "tema": "vivienda y desarrollo urbano",
+  "query": "national AND green AND tribunal",
+  "documentos": [39]
+},
+{
+  "tema": "vivienda y desarrollo urbano",
+  "query": "river AND hindon",
+  "documentos": [39]
+},
+{
+  "tema": "vivienda y desarrollo urbano",
+  "query": "environment",
+  "documentos": [39]
+},
+{
+  "tema": "medio ambiente",
+  "query": "pm1 OR pm2 OR pm10 OR (fine AND particles) OR (heavy AND metals)",
+  "documentos": [38]
+},
+{
+  "tema": "medio ambiente",
+  "query": "pollutant",
+  "documentos": [38]
+},
+{
+  "tema": "medio ambiente",
+  "query": "central AND delhi",
+  "documentos": [38]
+},
+{
+  "tema": "medio ambiente",
+  "query": "ministry AND earth AND sciences",
+  "documentos": [38]
+},
+{
+  "tema": "medio ambiente",
+  "query": "(vehicular AND combustion) OR construction",
+  "documentos": [38]
+},
+{
+  "tema": "medio ambiente",
+  "query": "cpcb",
+  "documentos": [38]
+},
+{
+  "tema": "medio ambiente",
+  "query": "public AND property",
+  "documentos": [39]
+},
+{
+  "tema": "medio ambiente",
+  "query": "national AND green AND tribunal",
+  "documentos": [39]
+},
+{
+  "tema": "medio ambiente",
+  "query": "river OR (river AND hindon)",
+  "documentos": [39]
+},
+{
+  "tema": "medio ambiente",
+  "query": "environment OR ecology",
+  "documentos": [39]
+},
+{
+  "tema": "salud",
+  "query": "bloodstream OR lungs OR heart OR alveolar",
+  "documentos": [38]
+},
+{
+  "tema": "salud",
+  "query": "dangerous OR harmful OR toxic",
+  "documentos": [38]
+},
+{
+  "tema": "salud",
+  "query": "ailments",
+  "documentos": [38]
+}]
