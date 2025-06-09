@@ -1,0 +1,295 @@
+[{
+        "tema": "Imposición de celebraciones religiosas en entornos laborales",
+        "query": "rakshabandhan AND (office OR offices) AND circular",
+        "documentos": [0]
+    },
+    {
+        "tema": "Controversias sobre normas laborales y religión",
+        "query": "government AND festival AND mandatory AND workplace",
+        "documentos": [0]
+    },
+    {
+        "tema": "Críticas a mujeres famosas tras el divorcio",
+        "query": "malaika AND divorce AND troll",
+        "documentos": [1]
+    },
+    {
+        "tema": "Misoginia en redes sociales hacia mujeres independientes",
+        "query": "woman AND successful AND troll AND gym",
+        "documentos": [1]
+    },
+    {
+        "tema": "Controversias por formularios institucionales inapropiados",
+        "query": "form AND virgin AND unmarried AND controversy",
+        "documentos": [2]
+    },
+    {
+        "tema": "Lenguaje inapropiado en documentos oficiales",
+        "query": "marital AND form AND declaration AND correct",
+        "documentos": [2]
+    },
+    {
+        "tema": "Muerte de terroristas buscados en Cachemira",
+        "query": "dujana AND (terrorist OR terrorists) AND encounter AND pulwama",
+        "documentos": [3]
+    },
+    {
+        "tema": "Presión a terroristas para que se rindan",
+        "query": "surrender AND army AND dujana",
+        "documentos": [3]
+    },
+    {
+        "tema": "Medidas en hoteles contra la trata de personas",
+        "query": "hotel AND trafficking AND training AND staff",
+        "documentos": [4]
+    },
+    {
+        "tema": "Tecnología contra el tráfico sexual en India",
+        "query": "rescue AND app AND trafficking AND police",
+        "documentos": [4]
+    },
+    {
+        "tema": "Muerte sospechosa bajo custodia policial",
+        "query": "police AND station AND suicide",
+        "documentos": [5]
+    },
+    {
+        "tema": "Sospechas de abuso policial en interrogatorios",
+        "query": "death AND interrogation AND torture AND foul",
+        "documentos": [5]
+    },
+    {
+        "tema": "Compensación reducida por negligencia compartida",
+        "query": "accident AND compensation AND (negligence OR negligent) AND court",
+        "documentos": [6]
+    },
+    {
+        "tema": "Responsabilidad de peatones en accidentes viales",
+        "query": "jaywalker AND accident AND (negligence OR negligent) AND delhi",
+        "documentos": [6]
+    },
+    {
+        "tema": "Linchamiento por histeria colectiva sobre corte de cabello",
+        "query": "lynch AND hair AND rumour AND dalit",
+        "documentos": [7]
+    },
+    {
+        "tema": "Casos de histeria colectiva en zonas rurales de India",
+        "query": "mass AND hysteria AND (ghost OR ghosts) AND hair AND cut",
+        "documentos": [7]
+    },
+    {
+        "tema": "Accidente de helicóptero por vuelo a baja altitud",
+        "query": "helicopter AND crash AND low AND height",
+        "documentos": [8]
+    },
+    {
+        "tema": "Errores humanos en accidentes aéreos en India",
+        "query": "(pilot OR pilots) AND disorient AND train AND pawan",
+        "documentos": [8]
+    },
+    {
+        "tema": "Protesta simbólica por inflación del tomate",
+        "query": "tomato AND prices AND protest AND congress",
+        "documentos": [9]
+    },
+    {
+        "tema": "Impacto del precio del tomate en India",
+        "query": "tomato AND rise AND prices AND lucknow AND bank",
+        "documentos": [9]
+    },
+    {
+        "tema": "Recuperación de alimentos sobrantes para alimentar a necesitados",
+        "query": "food AND leftover AND fssai AND hungry",
+        "documentos": [10]
+    },
+    {
+        "tema": "Regulación para bancos de comida en India",
+        "query": "fssai AND food AND bank AND regulator",
+        "documentos": [10]
+    },
+    {
+        "tema": "Oferta de trabajo falsa de Google a adolescente",
+        "query": "google AND hoax AND job AND boy",
+        "documentos": [11]
+    },
+    {
+        "tema": "Impacto psicológico de ofertas falsas en jóvenes",
+        "query": "hoax AND offer AND traumatise AND school",
+        "documentos": [11]
+    },
+    {
+        "tema": "Exención fiscal por ofrecer aparcamiento gratuito en Gurugram",
+        "query": "gurugram AND property AND tax AND parking AND waiver",
+        "documentos": [12]
+    },
+    {
+        "tema": "Decisión de edificios comerciales de no ofrecer aparcamiento gratuito",
+        "query": "gurugram AND commercial AND buildings AND parking AND tax",
+        "documentos": [12]
+    },
+    {
+        "tema": "Edición genética de embriones humanos para prevenir enfermedades",
+        "query": "human AND (embryos OR embryo) AND gene AND crispr AND disease",
+        "documentos": [13]
+    },
+    {
+        "tema": "Riesgos y debate ético sobre la edición genética de embriones",
+        "query": "(embryos OR embryo) AND gene AND effects",
+        "documentos": [13]
+    },
+    {
+        "tema": "Edificios peligrosos en Delhi bajo control del gobierno",
+        "query": "delhi AND buildings AND unsafe AND cpwd",
+        "documentos": [14]
+    },
+    {
+        "tema": "Revisión anual de edificios inseguros por autoridades municipales",
+        "query": "cpwd AND delhi AND survey AND dangerous AND buildings",
+        "documentos": [14]
+    },
+    {
+        "tema": "Elecciones Rajya Sabha con opción NOTA en Gujarat",
+        "query": "gujarat AND rajya AND sabha AND nota AND election",
+        "documentos": [15]
+    },
+    {
+        "tema": "Supreme Court mantiene opción NOTA en elecciones de Gujarat",
+        "query": "supreme AND court AND gujarat AND election AND nota AND (refuse AND stay)",
+        "documentos": [15]
+    },
+    {
+        "tema": "Atleta indio acusado de abuso sexual en EE.UU.",
+        "query": "indian AND athlete AND indict AND sexual AND abuse AND us",
+        "documentos": [16]
+    },
+    {
+        "tema": "Caso legal contra atleta indio en EE.UU. por abuso sexual",
+        "query": "tanveer AND hussain AND sexual AND abuse AND indictment AND essex AND county",
+        "documentos": [16]
+    },
+    {
+        "tema": "Falsa alarma de bomba en aeropuerto de Delhi por piezas Maruti",
+        "query": "delhi AND airport AND bomb AND scare AND maruti AND spare AND parts",
+        "documentos": [17]
+    },
+    {
+        "tema": "Bomb squad verifica sospecha en aeropuerto de Delhi",
+        "query": "cisf, AND bomb AND squad AND delhi AND airport AND cargo AND spare AND parts",
+        "documentos": [17]
+    },
+    {
+        "tema": "Cuestionario controversial sobre virginidad en IGIMS Bihar",
+        "query": "igims AND virgin AND questionnaire AND bihar AND marital AND status",
+        "documentos": [18]
+    },
+    {
+        "tema": "Defensa del ministro de salud sobre cuestionario en IGIMS",
+        "query": "mangal AND pandey AND igims AND virgin AND marital AND declaration AND controversy",
+        "documentos": [18]
+    },
+    {
+        "tema": "Confusión de grupo antiinmigrante noruego sobre asientos y burkas",
+        "query": "norway AND anti AND immigrant AND bus AND seats AND (burqa OR burqas) AND facebook",
+        "documentos": [19]
+    },
+    {
+        "tema": "Reacciones y racismo en grupo noruego tras foto de asientos vacíos",
+        "query": "fedrelandet AND viktigst AND norway AND islam AND hatred AND bus AND seats AND (burqa OR burqas)",
+        "documentos": [19]
+    },
+    {
+        "tema": "Bebé nace con gemelo mal formado dentro en Maharashtra",
+        "query": "baby AND (fetus OR fetu) AND maharashtra AND malformed AND twin AND rare AND condition",
+        "documentos": [20]
+    },
+    {
+        "tema": "Caso raro de embarazo gemelar monozygotic con fetus in fetu",
+        "query": "twin AND pregnancy AND (fetus OR fetu) AND maharashtra AND medical AND anomaly",
+        "documentos": [20]
+    },
+    {
+        "tema": "Prohibición de vendedores ambulantes cerca de AIIMS y Safdarjung en Delhi",
+        "query": "aiims AND safdarjung AND hawker AND zone AND delhi AND traffic AND congestion",
+        "documentos": [21]
+    },
+    {
+        "tema": "Medidas para mejorar el tráfico y accesibilidad en hospitales de Delhi",
+        "query": "delhi AND ndmc AND hawker AND remove AND ring AND road AND aurobindo AND marg AND hospital AND passage",
+        "documentos": [21]
+    },
+    {
+        "tema": "Protesta de agricultores en Noida por compensación y liberación de arrestados",
+        "query": "noida AND farmers AND arrest AND protest AND compensation AND eastern AND peripheral AND expressway",
+        "documentos": [22]
+    },
+    {
+        "tema": "Diálogo entre agricultores y autoridades sobre compensación y protestas en Noida",
+        "query": "noida AND farmers AND compensation AND challenge AND arrest AND release AND district AND magistrate",
+        "documentos": [22]
+    },
+    {
+        "tema": "Incidente de casi choque de avión Air Canada en aeropuerto de San Francisco",
+        "query": "air AND canada AND san AND francisco AND crash AND taxiway AND ntsb AND (investigation OR investigators)",
+        "documentos": [23]
+    },
+    {
+        "tema": "Confusión de pilotos de Air Canada y sistema de seguridad en aeropuerto SF",
+        "query": "air AND canada AND pilots AND mistake AND taxiway AND runway AND aviation AND safety AND (federal AND aviation AND administration)",
+        "documentos": [23]
+    },
+    {
+        "tema": "Aterrizaje de emergencia de avión que mata a dos bañistas en playa de Lisboa",
+        "query": "plane AND emergency AND land AND beach AND lisbon AND sunbathers AND kill AND cessna AND aerocondor",
+        "documentos": [24]
+    },
+    {
+        "tema": "Accidente aéreo en playa portuguesa con víctimas fatales",
+        "query": "aircraft AND crash AND caparica AND emergency AND land AND (deaths OR dead) AND witnesses",
+        "documentos": [24]
+    },
+    {
+        "tema": "Bloqueo de combustible para vuelos humanitarios de la ONU en Yemen por coalición saudí",
+        "query": "yemen AND aid AND flights AND fuel AND (block OR obstruct) AND humanitarian AND crisis",
+        "documentos": [25]
+    },
+    {
+        "tema": "Prueba exitosa de misil balístico intercontinental Minuteman 3 en California",
+        "query": "us AND vandenberg AND air AND force AND icbm AND test AND missile AND (launches OR launch)",
+        "documentos": [26]
+    },
+    {
+        "tema": "Contexto geopolítico y pruebas de misiles en EE.UU. ante amenazas de Corea del Norte",
+        "query": "us AND missile AND tests AND north AND korea AND tensions AND defense AND system AND bombers AND icbm AND (launches OR launch)",
+        "documentos": [26]
+    },
+    {
+        "tema": "Excursionista alemán hallado congelado en glaciar suizo tras 30 años desaparecido",
+        "query": "hiker AND swiss AND alps AND glacier AND (disappear OR disappearance) AND lagginhorn AND mountain",
+        "documentos": [27]
+    },
+    {
+        "tema": "Restos humanos encontrados en glaciar de Suiza décadas después de desaparición",
+        "query": "remains AND find AND glacier AND switzerland AND hiker AND (disappear OR disappearance) AND identification",
+        "documentos": [27]
+    },
+    {
+        "tema": "Dilip Kumar hospitalizado en Mumbai por complicaciones renales y deshidratación",
+        "query": "dilip AND kumar AND hospitalise AND kidney AND complications AND dehydration AND mumbai AND lilavati AND hospital",
+        "documentos": [28]
+    },
+    {
+        "tema": "Problemas de salud del veterano actor indio Dilip Kumar",
+        "query": "bollywood AND actor AND dilip AND kumar AND medical AND complications AND hospital",
+        "documentos": [28]
+    },
+    {
+        "tema": "Manglares de Airoli y Vikhroli en Mumbai entre los más únicos de India",
+        "query": "mangrove AND forests AND airoli AND vikhroli AND mumbai AND mangrove AND society AND india AND unique AND locations",
+        "documentos": [29]
+    },
+    {
+        "tema": "Conservación y turismo en manglares únicos de la India",
+        "query": "mangrove AND conservation AND india AND tourism AND potential AND biodiversity AND coastline AND protection",
+        "documentos": [29]
+}]
