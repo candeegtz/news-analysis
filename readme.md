@@ -1,4 +1,4 @@
-# Clasificar noticias falsas
+# ¿Qué me he perdido?
 
 ![Noticias por temáticas](NewsLogo.png)
 
@@ -7,4 +7,4 @@
 - Candela Jazmín Gutiérrez González
 
 ## Descripción
-Este proyecto ha sido realizado para la asignatura de Inteligencia Artificial empleando sistemas de recuperación de la información. El objetivo principal es la filtración de noticias con una temática indicada  mediante el uso de técnicas de aprendizaje automático y procesamiento de lenguaje natural.
+Este proyecto ha sido realizado para la asignatura de Inteligencia Artificial empleando sistemas de recuperación de la información. El objetivo principal es la recuperación de noticias a partir de una entrada, ya sea booleana o de texto libre.
